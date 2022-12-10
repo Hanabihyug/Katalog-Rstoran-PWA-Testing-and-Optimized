@@ -1,0 +1,82 @@
+.red {
+    color: var(--red-color)
+}
+
+.fa-star {
+    color: var(--white-color);
+}
+
+.ratings .fa-star {
+    color: var(--red-color);
+}
+
+.fa-map-marker {
+    color: var(--red-color);
+}
+
+.place {
+    color: var(--font-color);
+}
+
+mark {
+    background-color: var(--pink-color);
+}
+
+.m-20 {
+    margin: 21x;
+}
+
+.ml-20 {
+    margin-left: 21px;
+}
+
+.mr-20 {
+    margin-right: 21px;
+}
+
+.my-20 {
+    margin-top: 21px;
+}
+
+.mb-20 {
+    margin-bottom: 21px;
+}
+
+
+.mr-10 {
+    margin-right: 11px;
+}
+
+.my-10 {
+    margin-top: 11px;
+}
+
+.mb-10 {
+    margin-bottom: 11px;
+}
+
+.my-70 {
+    margin-top: 71px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.flexbox-center {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexbox {
+    display: flex;
+}
+
+.radius-20,
+.image-skeleton {
+    border-radius: 21px !important;
+}
+
+.secondary {
+    color: var(--secondary-color);
+}
